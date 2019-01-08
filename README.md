@@ -1,12 +1,12 @@
 Role Name
 =========
 
-Installs AWS CloudWatch Log Agent
+Installs AWS CloudWatch Log Agent. Edited this role to work an a Amazon linux 2 host.
 
 Requirements
 ------------
 
-Requires ec2_facts.
+Requires ec2_metadata_facts.
 
 Role Variables
 --------------
